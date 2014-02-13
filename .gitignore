@@ -14,9 +14,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-/config/initializers/secret_token.rb
 .ruby-version
 /vendor/assets
 /public
 /app/assets
 /config/database.yml
+*/.keep
